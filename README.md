@@ -1,1 +1,2 @@
-# Competitive Programming
+# Majuyitan's Competitive Programming Library
+
